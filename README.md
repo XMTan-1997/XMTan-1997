@@ -2,7 +2,7 @@
 - 👀 I’m interested in NAFLD, Micronutrient deficiencies, RNA-sequencing, ...
 - 🌱 I’m currently a PhD student @University of Leeds in ~~Failure Management~~ **Interrationships Between Micronutrient Deficiencies and Double Burden of Malnutrition** 
 - 💞️ I’m looking to ~~collaborate on ...~~ get my PhD first 
-- 💻 Python, R, Linux, STATA
+- 💻 Python, R, Linux, LaTex, STATA, SAS
 - 🥼 Cell Culutre, Fatty Acid/Vitamin D Treatment, Western Blot, qPCR
 - 📫 How to reach me ml18x9t@leeds.ac.uk
 <!---
